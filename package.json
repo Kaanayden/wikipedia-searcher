@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Kaanayden/wikipedia-searcher.git",
   "author": "Kaan Aydeniz <kaanayden15@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sax": "^1.3.0"
+  }
 }
